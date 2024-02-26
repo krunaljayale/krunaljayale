@@ -1,3 +1,4 @@
+![Krunal's GitHub Banner](https://github.com/krunaljayale/krunaljayale/blob/main/banner.png)
 <h1 align="center">Hi 👋, I'm Krunal</h1>
 <h3 align="center">Exploring full (MERN) stack developer journey.</h3>
 
