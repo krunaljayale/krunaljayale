@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Krunal</h1>
 <h3 align="center">An aspiring student from India.</h3>
 
-- 🔭 I’m currently working on **myself**
+- 🔭 Currently working on **myself**
 
 - 🌱 Exploring **full stack development journey**
 
