@@ -6,9 +6,9 @@
 
 - 🌱 Exploring **full stack development journey**
 
-- 👯 Looking to collaborate **with mern developers.**
+- 👯 Looking to collaborate **with MERN developers.**
 
-- 💬 Ask me about **mern technologies.**
+- 💬 Ask me about **MERN technologies.**
 
 - 📫 How to reach me **krunaljayale5@gmail.com**
 
