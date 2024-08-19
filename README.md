@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Krunal</h1>
 <h3 align="center">An aspiring student from India.</h3>
 
-- 🔭 Currently working on **myself**
+- 🔭 Currently working on **www.magicmenu.in**
 
 - 🌱 Exploring **full stack development journey**
 
