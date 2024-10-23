@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **MERN technologies.**
 
-- 📫 How to reach me **krunaljayale5@magicmenu.in**
+- 📫 How to reach me **krunaljayale@magicmenu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
