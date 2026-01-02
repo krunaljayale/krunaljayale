@@ -4,7 +4,7 @@
   <br/>
 
   <h1>Hi 👋, I'm Krunal Jayale</h1>
-  <h3>Full Stack & Mobile App Developer | Founder of Magic Menu</h3>
+  <h3>Full Stack & Mobile App Developer | Building Magic Menu</h3>
 
   <p>
     <a href="https://twitter.com/krunaljayale" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="krunaljayale" /></a>
