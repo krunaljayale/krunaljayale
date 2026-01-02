@@ -51,7 +51,7 @@
 ---
 
 <div align="center">
-  <img src="https://zenquotes.io/api/image" alt="Dynamic Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" />
 </div>
 
 <br/>
