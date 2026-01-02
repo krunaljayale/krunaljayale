@@ -1,13 +1,9 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/krunaljayale/krunaljayale/main/banner.png" width="100%" alt="Krunal's Banner" />
-
-  <br/>
-
-  <img src="https://i.imgur.com/1ZvVkDc.gif" width="100%" alt="Header GIF" />
+  <img src="https://i.imgur.com/1ZvVkDc.gif" width="100%" alt="Header Banner" />
   
   <br/>
 
-  <h1>Hi 👋, I'm <kbd>Krunal Jayale</kbd></h1>
+  <h1>Hi 👋, I'm Krunal Jayale</h1>
   <h3>Full Stack & Mobile App Developer | Founder of Magic Menu</h3>
 
   <p>
@@ -24,11 +20,11 @@
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
 
-- 🔭 **Founder of [Magic Menu](http://www.magicmenu.in)**: Scaling a food delivery startup and expanding into a new application for **grocery delivery**.
-- 🎓 **Education**: Pursuing my **MCA** (4th Semester) with a focus on scalable mobile architecture.
-- 🌱 **Tech Expertise**: Specialize in **React Native** (Expo & Native builds) and the **MERN Stack**.
-- 👯 **Collaboration**: Looking to collaborate with developers on high-performance React Native projects.
-- 💬 **Ask me about**: Startup growth, Android/iOS build troubleshooting, and full-stack development.
+- 🔭 **Founder of [Magic Menu](http://www.magicmenu.in)**: Scaling a food delivery startup and currently expanding our ecosystem with a new application for **grocery delivery**.
+- 🎓 **Education**: Currently in my **MCA (4th Semester)**, focusing on high-performance mobile architectures.
+- 🌱 **Tech Expertise**: Specialized in **React Native** (Expertise in Expo & Native Android/iOS builds) and the **MERN Stack**.
+- 👯 **Collaboration**: Looking to connect with developers passionate about startup scaling and mobile performance.
+- 💬 **Ask me about**: Startup growth strategies, React Native troubleshooting, and full-stack architecture.
 - 📫 **Reach me**: [krunaljayale@magicmenu.in](mailto:krunaljayale@magicmenu.in)
 
 <br/>
@@ -55,7 +51,11 @@
 ---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
-  <br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote" />
+</div>
+
+<br/>
+
+<div align="center">
   <h3>Thanks for visiting! ❤️</h3>
 </div>
