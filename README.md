@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://i.imgur.com/1ZvVkDc.gif" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/krunaljayale/krunaljayale/main/banner.png" width="100%" alt="Krunal's Banner" />
+
+  <br/>
+
+  <img src="https://i.imgur.com/1ZvVkDc.gif" width="100%" alt="Header GIF" />
   
   <br/>
 
@@ -50,25 +54,8 @@
 
 ---
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krunaljayale&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krunaljayale&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily Tech Quote" />
   <br/>
   <h3>Thanks for visiting! ❤️</h3>
 </div>
